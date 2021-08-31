@@ -16,7 +16,7 @@
   "Menu Help": "Ayuda",
   "Hero Title": "DogeCash Es",
   "Hero Accent": "Dinero Digital",
-  "Hero Content": "En DogeCash estamos construyendo un ecosistema en el que tu voz importa.",
+  "Hero Content": "DogeCash is a transparent, community-governed cryptocurrency utilized by its high-quality platforms.",
   "Features Title": "Una criptomoneda lista para usar",
   "Features Subtitle": "Hemos hecho todo el trabajo duro",
   "Feature1 Title": "Auto gobernada",
@@ -51,7 +51,7 @@
   "Footer Join us": "Únete",
   "Footer Credits": "Diseñado con amor © DogeCash Labs 2021. Todos los derechos reservados",
   "Governance Accent": "Gobernanza",
-  "Governance Content": "En DogeCash estamos construyendo un ecosistema en el que tu voz importa.",
+  "Governance Content": "La gobernanza de DogeCash financia de forma descentralizada proyectos comunitarios que mejorarán el ecosistema.",
   "Governance Features Title": "Gobernanza",
   "Governance Features Subtitle": "El método DogeCash",
   "Governance Feature1 Title": "Propuestas",
@@ -160,5 +160,11 @@
   "Buy Secondstep To Address": "a esta dirección",
   "Buy Seconstep Swapnote": "Tienes hasta 24 horas para completar el pago, sin embargo, cuanto más tiempo esperes, más probable es que las condiciones del swap cambien.",
   "Buy Seconstep Tracklink": "Sigue el estado del swap con este link",
-  "Menu Resources": "Recursos"
+  "Menu Resources": "Recursos",
+  "Governance No Proposals": "No hay propuestas abiertas en el momento.",
+  "Governance Create Proposal": "¡Crea la tuya ahora!",
+  "Privacy Content": "DogeCash adopta la privacidad como un derecho Doge fundamental: Al utilizar nuestro protocolo ZDOGEC, las transacciones son seguras e imposibles de rastrear.",
+  "Team Content": "Proporcionamos infraestructura para la Libertad Financiera a nuestra comunidad y más allá. Llevamos en la escena de las criptomonedas desde 2018 como DogeCash y más tiempo ya que muchos de nosotros hemos estado en las criptomonedas desde el principio.",
+  "Economy Content": "La economía DogeCash está pensada como un almacén de valor y moneda transaccional, con una economía viable a largo plazo.",
+  "Merchants Content": "DogeCash es perfecto para comercios: Llegada instantánea, sin devoluciones de cargos, staking competitivo y casi 0% comisiones."
 }
